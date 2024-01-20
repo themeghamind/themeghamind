@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my page!
 
-My name is Megha (pronounced may-gha). I like building full stack consumer apps and reading about climate + dev tools. 
+My name is Megha (pronounced may-gha). I like building full stack consumer apps and reading about climate + dev tools :)
 
 Wanna see more of what I've been reading, writing, and building lately? 📚 Check out [my website](https://www.meghajain.me/)
 
