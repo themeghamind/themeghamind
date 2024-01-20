@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 welcome to my page!
+
+I like building full stack consumer apps and reading about climate + dev tools. 
+
+Wanna see more of what I've been reading, writing, and building lately? 📚 Check out [my website](https://www.meghajain.me/)
+
+Wanna build together? 🛠️ Shoot me an email at meghajain@berkeley.edu
 
 <!--
 **themeghamind/themeghamind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
