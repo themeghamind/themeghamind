@@ -1,10 +1,10 @@
-### Hi there 👋 welcome to my page!
+### hi there 👋 welcome to my page!
 
-My name is Megha (pronounced may-gha). I like building full stack consumer apps and reading about climate + dev tools :)
+my name is Megha (pronounced may-gha). i like building full stack consumer apps and reading about climate + dev tools :)
 
-Wanna see more of what I've been reading, writing, and building lately? 📚 Check out [my website](https://www.meghajain.me/)
+wanna see more of what i've been reading, writing, and building lately? 📚 Check out [my website](https://www.meghajain.me/)
 
-Wanna build together? 🛠️ Shoot me an email at meghajain@berkeley.edu
+wanna build together? 🛠️ shoot me an email at meghajain@berkeley.edu
 
 <!--
 
