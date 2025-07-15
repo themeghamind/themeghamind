@@ -4,7 +4,7 @@ My name is Megha (pronounced may-gha). I like building full stack consumer apps 
 
 Wanna see more of what I've been reading, writing, and building lately? 📚 Check out [my website](https://www.meghajain.me/)
 
-Wanna build together? 🛠️ Shoot me an email at meghajain@berkeley.edu
+Wanna build together? 🛠️ Shoot me an email at meghajain.gr8@gmail.com
 
 <!--
 
